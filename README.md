@@ -1,4 +1,4 @@
-# Hi 👋, I'm <Mainur Zaman>  
+# Hi 👋, I'm Mainur Zaman 
 ### 🔭 I build things with JavaScript, React, and Node.js
 
 ---
